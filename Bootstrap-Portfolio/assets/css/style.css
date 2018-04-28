@@ -1,0 +1,8 @@
+body {
+    background:url('../images/old_moon.png');
+}
+
+.navbar-brand {
+    padding: 20px;
+    color: white;
+}
